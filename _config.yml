@@ -1,0 +1,34 @@
+author: Illithid Collective
+
+permalink: /:slug
+
+favicon: "./logo.png" # relative path to site's favicon
+
+theme_config:
+  appearance: "dark" # can be "light", "dark" or "auto"
+  appearance_toggle: true # if appearance can be switched by user
+  back_home_text: "назад" # customize text for homepage link in post layout
+  date_format: "%d-%m-%Y" # customize how date is formatted
+  show_navbar: true # show horizontal navbar
+  show_footer: true # show footer links in home page,add in _data/home.yml
+  show_copyright: true # show copyright notice in footer
+
+  # following keys are using to create home layout
+  show_description: true # show blog description
+  show_projects: true # show projects as cards, add in _data/home.yml
+  show_blog: true # show blog posts added in _posts
+  show_reading_time: false # show number of words and reading time in the blog posts
+  show_tags: true # show tags in a blog posts
+
+highlighter: rouge
+
+sass:
+  style: :compressed
+
+collections:
+  - houdini_faq
+
+exclude:
+  - .gitignore
+  - .git
+  - README.md

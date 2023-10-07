@@ -1,0 +1,114 @@
+navbar_entries:
+  - title: главная
+    url: /
+
+  - title: о сайте
+    url: /about
+
+#  - title: blog
+#    url: /blog
+
+title: CG Community Hub
+
+description: >
+  Небольшое централизованное хранилище ссылок и прочей полезной информации
+  по теме компьютерной графики в кино, сериалах, рекламе, играх и прочем.
+
+resources_title:
+  text: полезные ресурсы
+
+blog_title:
+  text: новости хаба
+
+projects_title:
+  text: коммьюнити
+
+project_entries:
+  - title: Houdini chat 
+    icon: /assets/images/icons/houdini_logo.png
+    url: https://telegram.me/joinchat/BbU_30E1zLoWMr04k4rwQQ
+    desc: |
+      Чат по SideFX Houdini.  
+      Вопросы-ответы, обсуждения, объявления, вакансии.  
+      Уважайте [правила коммьюнити](https://33dch.blogspot.ru/2013/04/rules.html)
+    tags:
+      - telegram
+
+  - title: GPU Rendering
+    icon: /assets/images/icons/amd_logo.png
+    url: https://telegram.me/joinchat/Bl38NEASY0yVoiM9BTxS_w
+    desc: Чат по тематике гпу рендеринга и соответствующего железа
+    tags:
+      - telegram
+
+  - title: Nuke chat
+    icon: /assets/images/icons/nuke_logo.png
+    url: https://t.me/+QbI8ipRghKwP8H5R
+    desc: |
+      Чат по Foundry Nuke.  
+      Вопросы-ответы, обсуждения, вакансии и прочее.
+    tags:
+      - telegram
+
+  - title: CG чатик
+    icon: /assets/images/icons/cgchat_logo.png
+    url: https://t.me/cgchateek
+    desc: |
+      Общий чат по цг.  
+      Уважайте [правила коммьюнити](https://33dch.blogspot.ru/2013/04/rules.html)
+    tags:
+      - telegram
+
+  - title: C4D chat
+    icon: /assets/images/icons/c4d_logo.png
+    url: https://t.me/c4dchat
+    desc: |
+      Чат по тематике Maxon Cinema4D.  
+      Уважайте [правила коммьюнити](https://33dch.blogspot.ru/2013/04/rules.html)
+    tags:
+      - telegram
+
+  - title: CG Pipeline
+    icon: /assets/images/icons/cgp_logo.png
+    url: https://t.me/+6x18szdtXCthM2Vi
+    desc: |
+      Чат по вопросам, связанным с ЦГ пайплайном вцелом.
+    tags:
+      - telegram        
+
+
+resources_entries:
+  - title: 3D Studio Max
+    icon: /assets/images/icons/3dmax_logo.png
+      
+  - title: Cinema4D
+    icon: /assets/images/icons/c4d_logo.png
+
+  - title: Houdini
+    icon: /assets/images/icons/houdini_logo.png
+    entries:
+      - title: обучающие материалы
+        url: /houdini/tutorials
+
+      - title: инструменты, тулзы
+        url: /houdini/tools
+
+      - title: FAQ
+        url: /houdini/faq
+
+      - title: Матчасть
+        url: /houdini/math
+  
+  - title: Maya
+    icon: /assets/images/icons/maya_logo.png
+
+  - title: Pipeline
+    icon: /assets/images/icons/gear2_logo.png
+    entries:
+      - title: обучающие материалы
+        url: /pipeline_tutorials
+
+  - title: Вспомогательные программы и сервисы
+    icon: /assets/images/icons/wrench_logo.png
+    url: /misc_tools
+
