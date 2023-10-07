@@ -2,9 +2,9 @@
   {% for item in include.collection %}
     <li>
     {% if item.url %}
-      <a href="{{ item.url }}">{% if item.icon %}<img class="inline-icon" src="{{ item.icon }}" width=16/>{% endif %} {{ item.title }}</a>
+      <a href="{{ item.url | relative_url }}">{% if item.icon %}<img class="inline-icon" src="{{ item.icon | relative_url }}" width=16/>{% endif %} {{ item.title }}</a>
     {% else %}
-      {% if item.icon %}<img class="inline-icon" src="{{ item.icon }}" width=16/>{% endif %} {{ item.title }}
+      {% if item.icon %}<img class="inline-icon" src="{{ item.icon | relative_url }}" width=16/>{% endif %} {{ item.title }}
     {% endif %}
 
     {% if item.post_list == true %}

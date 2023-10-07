@@ -5,7 +5,7 @@
       <a href="{{ item.url }}">
         <span class="header">
           {% if item.icon %}
-          <img class="inline-icon" src="{{ item.icon }}" width=32/>
+          <img class="inline-icon" src="{{ item.icon | relative_url }}" width=32/>
           {% endif %}
           {{ item.title }}
 

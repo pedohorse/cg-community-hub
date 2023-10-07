@@ -7,7 +7,7 @@ layout: post
 Если хотите исправить или дополнить список - [читайте здесь](/about), как это можно сделать.
 
 
-# <img class="inline-icon" src="/assets/images/icons/houdini_logo.png" width=48/> Houdini
+# <img class="inline-icon" src="{{ "/assets/images/icons/houdini_logo.png" | relative_url }}" width=48/> Houdini
 
 ## Официальные материалы
 * [getting started](https://www.sidefx.com/learn/getting_started/)
