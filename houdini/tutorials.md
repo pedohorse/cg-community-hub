@@ -1,10 +1,9 @@
 ---
-title: Houdini tutorials
 layout: post
 ---
 
 Здесь собраны линки на разные обучающие материалы по гудини.  
-Если хотите исправить или дополнить список - [читайте здесь](/about), как это можно сделать.
+Если хотите исправить или дополнить список - [читайте здесь]({{ "/about" | relative_url }}), как это можно сделать.
 
 
 # <img class="inline-icon" src="{{ "/assets/images/icons/houdini_logo.png" | relative_url }}" width=48/> Houdini

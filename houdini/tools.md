@@ -1,10 +1,9 @@
 ---
-title: Houdini tools
 layout: post
 tags: houdini
 ---
 
-Если хотите исправить или дополнить список - [читайте здесь](/about), как это можно сделать.
+Если хотите исправить или дополнить список - [читайте здесь]({{ "/about" | relative_url }}), как это можно сделать.
 
 # <img class="inline-icon" src="{{ "/assets/images/icons/houdini_logo.png" | relative_url }}" width=48/> Houdini
 
@@ -15,7 +14,8 @@ tags: houdini
 
 * [qlib](https://github.com/qLab/qLib)  
   *Open Source*  
-  Набор полезны ассетов
+  Набор полезных ассетов
+  требуется расширенное описание
 
 * [aelib](https://github.com/Aeoll/Aelib)  
   *Open Source*  

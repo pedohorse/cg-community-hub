@@ -3,6 +3,7 @@ baseurl: /cg-community-hub/
 
 permalink: /:slug
 
+title: "CG Хаб"
 favicon: "./logo.png" # relative path to site's favicon
 
 theme_config:
