@@ -75,6 +75,13 @@ project_entries:
       Чат по вопросам, связанным с ЦГ пайплайном вцелом.
     tags:
       - telegram        
+  - title: Ref Inspiration
+    icon: /assets/images/icons/refchat_logo.png
+    url: https://t.me/joinchat/BuOmcUCKXHEjlcqjdf1tCw
+    desc: |
+      Чат для поиска референсов на все случаи жизни
+    tags:
+      - telegram
 
 
 resources_entries:
