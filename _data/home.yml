@@ -82,7 +82,13 @@ project_entries:
       Чат для поиска референсов на все случаи жизни
     tags:
       - telegram
-
+  - title: Hard Talk
+    icon: /assets/images/icons/hardtalk_logo.png
+    url: https://t.me/HARD_TALK
+    desc: |
+      Чат по вопросам CG Железа, Компов, Разгона
+    tags:
+      - telegram
 
 resources_entries:
   - title: 3D Studio Max
