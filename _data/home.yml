@@ -89,6 +89,13 @@ project_entries:
       Чат по вопросам CG Железа, Компов, Разгона
     tags:
       - telegram
+  - title: Blender
+    icon: /assets/images/icons/blender_logo.png
+    url: https://t.me/blender_ru
+    desc: |
+      Чат по блендеру. Вопросы-ответы.
+    tags:
+      - telegram
 
 resources_entries:
   - title: 3D Studio Max
