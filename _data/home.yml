@@ -34,28 +34,12 @@ project_entries:
     tags:
       - telegram
 
-  - title: GPU Rendering
-    icon: /assets/images/icons/amd_logo.png
-    url: https://telegram.me/joinchat/Bl38NEASY0yVoiM9BTxS_w
-    desc: Чат по тематике гпу рендеринга и соответствующего железа
-    tags:
-      - telegram
-
   - title: Nuke chat
     icon: /assets/images/icons/nuke_logo.png
     url: https://t.me/+QbI8ipRghKwP8H5R
     desc: |
       Чат по Foundry Nuke.  
       Вопросы-ответы, обсуждения, вакансии и прочее.
-    tags:
-      - telegram
-
-  - title: CG чатик
-    icon: /assets/images/icons/cgchat_logo.png
-    url: https://t.me/cgchateek
-    desc: |
-      Общий чат по цг.  
-      Уважайте [правила коммьюнити](https://33dch.blogspot.ru/2013/04/rules.html)
     tags:
       - telegram
 
@@ -68,6 +52,23 @@ project_entries:
     tags:
       - telegram
 
+  - title: Blender
+    icon: /assets/images/icons/blender_logo.png
+    url: https://t.me/blender_ru
+    desc: |
+      Чат по блендеру. Вопросы-ответы.
+    tags:
+      - telegram
+
+  - title: CG чатик
+    icon: /assets/images/icons/cgchat_logo.png
+    url: https://t.me/cgchateek
+    desc: |
+      Общий чат по цг.  
+      Уважайте [правила коммьюнити](https://33dch.blogspot.ru/2013/04/rules.html)
+    tags:
+      - telegram
+
   - title: CG Pipeline
     icon: /assets/images/icons/cgp_logo.png
     url: https://t.me/+6x18szdtXCthM2Vi
@@ -75,13 +76,14 @@ project_entries:
       Чат по вопросам, связанным с ЦГ пайплайном вцелом.
     tags:
       - telegram        
-  - title: Ref Inspiration
-    icon: /assets/images/icons/refchat_logo.png
-    url: https://t.me/joinchat/BuOmcUCKXHEjlcqjdf1tCw
-    desc: |
-      Чат для поиска референсов на все случаи жизни
+
+  - title: GPU Rendering
+    icon: /assets/images/icons/amd_logo.png
+    url: https://telegram.me/joinchat/Bl38NEASY0yVoiM9BTxS_w
+    desc: Чат по тематике гпу рендеринга и соответствующего железа
     tags:
       - telegram
+
   - title: Hard Talk
     icon: /assets/images/icons/hardtalk_logo.png
     url: https://t.me/HARD_TALK
@@ -89,11 +91,12 @@ project_entries:
       Чат по вопросам CG Железа, Компов, Разгона
     tags:
       - telegram
-  - title: Blender
-    icon: /assets/images/icons/blender_logo.png
-    url: https://t.me/blender_ru
+
+  - title: Ref Inspiration
+    icon: /assets/images/icons/refchat_logo.png
+    url: https://t.me/joinchat/BuOmcUCKXHEjlcqjdf1tCw
     desc: |
-      Чат по блендеру. Вопросы-ответы.
+      Чат для поиска референсов на все случаи жизни
     tags:
       - telegram
 
