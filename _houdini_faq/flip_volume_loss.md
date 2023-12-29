@@ -24,5 +24,7 @@ title: "FLIP: потеря объёма"
     не сможет вычислять скорость коллайдера
   * В случае двигающегося коллайдера необходимо поменять дефолтный `collision velocity scale` из `1.5` в `1.0`
 
+Пример случая потери объема, связанного с не корректной настройкой `grid scale` описан в [cgwiki](https://www.tokeru.com/cgwiki/HoudiniDops.html#stopping_volume_loss)
+
 Так же стоит заметить, что [мануал по флипу](https://www.sidefx.com/docs/houdini/nodes/dop/flipsolver.html) имеет ряд рекоммендаций и указаний,
 как сделать сим более стабильным и хорошим.
