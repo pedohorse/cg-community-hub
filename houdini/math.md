@@ -16,7 +16,7 @@ layout: post
   также более продвинутые ресурсы по этой теме:  
   [algorithm-visualizer](https://algorithm-visualizer.org/)
 * [интерактивные видео](https://eater.net/quaternions), дающие понять примерный смысл работы с кватернионами  
-  [визуализация работы кватернеона](http://quaternions.online/)
+  [Визуализация кватерниона](http://quaternions.online/)
 * [scratch a pixel](https://www.scratchapixel.com/) - большая продвинутая книжка по вступлению в компьютерную графику, 
   более ориентирована на программистов
 
