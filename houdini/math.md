@@ -26,7 +26,7 @@ layout: post
 
   Поясняю перевод из академических статей в контекст гудини:
 
-  **Кватернион** `w + i*x + y*j + z*k` из видео выше - это `{x, y, z, w}` в гудини
+  Кватернион `w + i*x + y*j + z*k` из видео выше - это `{x, y, z, w}` в гудини
   `quaternion(ang, axis)` cоздает кватернион
   `{ axis.x*sin(ang/2), axis.y*sin(ang/2), axis.z*sin(ang/2), cos(ang/2) }` в гудини,
   что в видео, соответственно, `cos(ang/2) + sin(ang/2)*(i*axis.x + j*axis.y + k*axis.z)`
