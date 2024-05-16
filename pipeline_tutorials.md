@@ -70,6 +70,7 @@ perforce.
 * [Deadline](https://aws.amazon.com/thinkbox-deadline/)
 * [Flamenco](https://flamenco.blender.org/)
 * [HQueue](https://www.sidefx.com/tutorials/getting-started-with-hqueue/)
+* [Lifeblood](https://pedohorse.github.io/lifeblood/)
 * [OpenCue](https://www.opencue.io/)
 * [Qube](https://www.pipelinefx.com/features/)
 * [Tractor](https://renderman.pixar.com/tractor)
