@@ -141,8 +141,10 @@ git checkout имя-ветки
 
 1. **Создайте Pull Request**:  
 - Перейдите на страницу вашего форкнутого репозитория на GitHub.
-- Нажмите кнопку "Pull Requests".
+- Вы увидете новое всплывающее уведомление и нажмите **"Compare & Pull Requests"**.
+![Add pul request]({{ "/content/images/about/git_pull_request.jpeg" | relative_url }})
 - Сравните свою ветку (например, add-faq-entry-about-cows) с веткой master оригинального репозитория.
+![Add pul request]({{ "/content/images/about/git_pull_request_compare.jpeg" | relative_url }})
 - Заполните описание PR, кратко описав внесенные вами изменения.
 - Добавьте рецензентов (если необходимо), которые могут проверить ваши изменения.
 - Нажмите кнопку "Create Pull Request". 
