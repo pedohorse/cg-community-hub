@@ -28,7 +28,8 @@ sass:
   style: :compressed
 
 collections:
-  - houdini_faq
+  houdini_faq:
+    sort_by: order
 
 exclude:
   - .gitignore
