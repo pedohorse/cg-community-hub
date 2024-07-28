@@ -1,5 +1,6 @@
 ---
 title: Инстансы, Пакеды, Пакед диск, Делейед Лоад Процедурал
+order: 100
 ---
 
 в [мануале отлично описано](https://www.sidefx.com/docs/houdini/model/packed.html)

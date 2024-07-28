@@ -1,5 +1,6 @@
 ---
 title: Группы, Как написать группу, чтобы то и сё
+order: 100
 ---
 
 Всё и [подробно описано в мануале](https://www.sidefx.com/docs/houdini/model/groups.html),
