@@ -16,7 +16,7 @@ layout: post
 ## Неофициальные материалы
 * [entagma](https://entagma.com/)
 * [tokeru](http://www.tokeru.com/cgwiki/index.php?title=Houdini), в том числе его [joy of vex](http://www.tokeru.com/cgwiki/index.php?title=JoyOfVex)
-* [vex advanced basics](./vex.md)
+* [vex advanced basics]( {{ "/houdini/vex" | relative_url }} )
 * [Houdini по-русски](https://www.youtube.com/channel/UCmVIflStOlsw1Uz83V5Wdcg)
 * [Серия видео по ригу (пре kineFX)](https://www.youtube.com/watch?v=1Sh9ieaOJDw&list=PLtnGwXWCcbetGXwuNMcS7tJxYcATF9o6O)
 
