@@ -2,7 +2,7 @@
 layout: post
 ---
 
-Здесь собраны линки на разные обучающие материалы по гудини.  
+Здесь собраны линки на разные обучающие материалы по гудини.
 Если хотите исправить или дополнить список - [читайте здесь]({{ "/about" | relative_url }}), как это можно сделать.
 
 
@@ -16,7 +16,7 @@ layout: post
 ## Неофициальные материалы
 * [entagma](https://entagma.com/)
 * [tokeru](http://www.tokeru.com/cgwiki/index.php?title=Houdini), в том числе его [joy of vex](http://www.tokeru.com/cgwiki/index.php?title=JoyOfVex)
-* [vex advanced basics](https://docs.google.com/document/d/1RI-VfhovMh5i3uFKEJOEKmG0jtgliw5JRzNuv2ZTa-o/edit)
+* [vex advanced basics]( {{ "/houdini/vex" | relative_url }} )
 * [Houdini по-русски](https://www.youtube.com/channel/UCmVIflStOlsw1Uz83V5Wdcg)
 * [Серия видео по ригу (пре kineFX)](https://www.youtube.com/watch?v=1Sh9ieaOJDw&list=PLtnGwXWCcbetGXwuNMcS7tJxYcATF9o6O)
 
